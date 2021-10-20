@@ -1,0 +1,15 @@
+C:\Users\king\source\repos\Free Ui\Free Ui\bin\Debug\Free Ui.exe.config
+C:\Users\king\source\repos\Free Ui\Free Ui\bin\Debug\Free Ui.exe
+C:\Users\king\source\repos\Free Ui\Free Ui\bin\Debug\Free Ui.pdb
+C:\Users\king\source\repos\Free Ui\Free Ui\bin\Debug\Guna.UI.dll
+C:\Users\king\source\repos\Free Ui\Free Ui\bin\Debug\Guna.UI2.dll
+C:\Users\king\source\repos\Free Ui\Free Ui\obj\Debug\Free Ui.csproj.AssemblyReference.cache
+C:\Users\king\source\repos\Free Ui\Free Ui\obj\Debug\Free_Ui.Form1.resources
+C:\Users\king\source\repos\Free Ui\Free Ui\obj\Debug\Free_Ui.Forms.Home.resources
+C:\Users\king\source\repos\Free Ui\Free Ui\obj\Debug\Free_Ui.Properties.Resources.resources
+C:\Users\king\source\repos\Free Ui\Free Ui\obj\Debug\Free Ui.csproj.GenerateResource.cache
+C:\Users\king\source\repos\Free Ui\Free Ui\obj\Debug\Free Ui.csproj.CoreCompileInputs.cache
+C:\Users\king\source\repos\Free Ui\Free Ui\obj\Debug\Free Ui.exe
+C:\Users\king\source\repos\Free Ui\Free Ui\obj\Debug\Free Ui.pdb
+C:\Users\king\source\repos\Free Ui\Free Ui\obj\Debug\Free_Ui.Forms.cool.resources
+C:\Users\king\source\repos\Free Ui\Free Ui\obj\Debug\Free_Ui.Forms.idk.resources
